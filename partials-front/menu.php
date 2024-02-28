@@ -22,6 +22,8 @@
                 </a>
             </div>
 
+            <!-- <h1 style="text-align:center; font-size:30px; padding:5px; margin:5px;">Dine-In</h1> -->
+
             <div class="menu text-right">
                 <ul>
                     <li>

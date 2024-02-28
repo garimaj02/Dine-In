@@ -1,19 +1,23 @@
 /* css for all */
+
 *{
     margin: 0 0;
     padding: 0 0;
     font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
 .container{
+    height:50%;
     width: 80%;
     margin: 0 auto;
     padding: 1%;
-}.logo{
+}
+
+.logo{
     width: 10%;
     float: left;
 }
 .menu{
-    line-height: 60px;
+    line-height: 70px;
 }
 .menu ul{
     list-style-type: none;
@@ -97,15 +101,15 @@ h3{
     border-radius: 5px;
 }
 .food-menu{
-    background-color: #ececec;
+    background-color: black;
     padding: 4% 0;
 }
 .food-menu-box{
     width:44%;
     margin: 1%;
-    padding: 2%;
+    padding: 1%;
     float:left;
-    background-color: white;
+    background-color: black;
     border-radius: 15px;
 }
 

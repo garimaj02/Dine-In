@@ -46,7 +46,12 @@ else
 }
 ?>
 
-  
+        <div class="clearfix"></div>
+    </div>
+</section>  
+
+
+<?php include './partials-front/footer.php'; ?>
 </body>
 </html>
      
